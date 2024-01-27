@@ -1,1 +1,3 @@
-This weather application was created with React and Weather api.
+Clone this repository.
+Then npm i for node modules.
+Then npm start.
