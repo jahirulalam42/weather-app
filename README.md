@@ -1,0 +1,1 @@
+This weather application was created with React and Weather api.
